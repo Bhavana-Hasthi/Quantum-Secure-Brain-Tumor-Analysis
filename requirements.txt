@@ -6,7 +6,5 @@ scipy==1.15.2
 python-docx==1.1.2
 PyPDF2==3.0.1
 opencv-python==4.11.0.86
-# Try adding these (unlikely to help in Streamlit Cloud)
-# cmake
-# libjpeg-dev
-# zlib-dev
+setuptools==65.5.0  # Try an older stable version
+wheel==0.38.4     # Try an older stable version
